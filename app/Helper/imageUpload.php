@@ -8,7 +8,7 @@ class imageUpload
     {
         $rand = $name;
         $dir = 'images/'.$directory.'/'.$rand;
-        $dirLarge = $dir.'/large';
+        $dirLarge = $dir.'/large';com
 
         if(!empty($file))
         {

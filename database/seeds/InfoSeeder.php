@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Seeder;
 
-class InfoSeeder extends Seeder
+class php artisan key:generateInfoSeeder extends Seeder
 {
     /**
      * Run the database seeds.
